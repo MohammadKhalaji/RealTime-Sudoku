@@ -4,7 +4,8 @@ Real-time Sudoku solver with OpenCV and PyTorch
 
 2. Using OpenCV Python, the sudoku square is identified: 
 
-![Sudoku Square Identification](https://github.com/MohammadKhalaji/RealTime-Sudoku/blob/master/readme_images/1.jpg)
+<!-- ![Sudoku Square Identification]() -->
+<img align="center" width="100" height="100" src="http://www.fillmurray.com/100/100">
 
 ![Sudoku Square Identification](https://github.com/MohammadKhalaji/RealTime-Sudoku/blob/master/readme_images/2.jpg)
 
